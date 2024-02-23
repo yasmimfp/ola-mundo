@@ -10,7 +10,7 @@ html,body {
     flex-flow: row nowrap;
     align-items: center;
     justify-content: center;
-}
+
 .msg {
     font-size: 64px;
 }
