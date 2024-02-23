@@ -1,6 +1,7 @@
 html,body{
     margin: 0;
     padding: 0;
+    heigth: 100%;
 }
 .msg{
     font-size: 64px;
@@ -10,7 +11,7 @@ html,body{
     heigth: 100%;
     display: flex row nowrap;
     flex-row: row nowrap;
-    align-items: center;
+    align-itens: center;
     justify-content: center;
 }
 
