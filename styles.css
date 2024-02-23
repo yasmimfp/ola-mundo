@@ -1,8 +1,4 @@
-html,body {
-    margin: 0;
-    padding: 0;
-    heigth: 100%;
-}
+
 .center {
     width: 100%;
     heigth: 100%;
@@ -10,6 +6,10 @@ html,body {
     flex-flow: row nowrap;
     align-items: center;
     justify-content: center;
+html,body {
+    margin: 0;
+    padding: 0;
+    heigth: 100%;
 }
 .msg {
     font-size: 64px;
