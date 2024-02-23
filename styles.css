@@ -7,7 +7,7 @@ html,body {
     width: 100%;
     heigth: 100%;
     display: flex row nowrap;
-    flex-row: row nowrap;
+    flex-flow: row nowrap;
     align-items: center;
     justify-content: center;
 }
