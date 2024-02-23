@@ -6,7 +6,7 @@ html,body {
 .center {
     width: 100%;
     heigth: 100%;
-    display: flex row nowrap;
+    display: flex;
     flex-flow: row nowrap;
     align-items: center;
     justify-content: center;
