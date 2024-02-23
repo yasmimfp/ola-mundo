@@ -1,17 +1,17 @@
-html,body{
+html,body {
     margin: 0;
     padding: 0;
     heigth: 100%;
 }
-.msg{
+.msg {
     font-size: 64px;
 }
-.center{
+.center {
     width: 100%;
     heigth: 100%;
     display: flex row nowrap;
     flex-row: row nowrap;
-    align-itens: center;
+    align-items: center;
     justify-content: center;
 }
 
