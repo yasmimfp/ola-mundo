@@ -2,6 +2,9 @@ html,body {
     margin: 0;
     padding: 0;
 }
+.msg {
+    font-size: 64px;
+}
 .center {
     width: 100%;
     heigth: 100%;
@@ -10,6 +13,4 @@ html,body {
     align-items: center;
     justify-content: center;
 }
-.msg {
-    font-size: 64px;
-}
+
